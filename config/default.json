@@ -1,6 +1,7 @@
 {
-  "es_endpoint": "http://192.168.1.243:9200/0_newstore_orders/sales-order",
-  "uuid_log_file": "./uuids.log",
+  "auth_token": "IjAwdTQ4OTk2eGhSTEZ5MEQ1MGg3Ig.CJvkCw.QyvYNggN1y_ycsrz-zAVf_ot62s",
+  "es_endpoint": "http://newstoredev.newstore.local:8081/_/v0/hq/orders",
   "requests_per_block": 10,
+  "uuid_log_file": "./uuids.log",
   "wait_between_request_blocks": 1
 }
