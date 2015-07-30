@@ -1,0 +1,16 @@
+{
+  "name": "req-faker",
+  "version": "1.0.0",
+  "description": "Fake configurable generic http requests using faker library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valerio Donati",
+  "license": "MIT",
+  "devDependencies": {
+    "cron": "^1.0.9",
+    "faker": "^3.0.0",
+    "request": "^2.60.0"
+  }
+}

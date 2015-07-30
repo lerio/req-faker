@@ -1,0 +1,6 @@
+{
+  "es_endpoint": "http://192.168.1.243:9200/0_newstore_orders/sales-order",
+  "uuid_log_file": "./uuids.log",
+  "requests_per_block": 10,
+  "wait_between_request_blocks": 1
+}
